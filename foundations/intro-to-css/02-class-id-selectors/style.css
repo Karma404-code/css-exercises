@@ -1,0 +1,21 @@
+
+.ham{
+    color: #000000;
+    background-color: rgb(251, 159, 159);
+    font-family: Verdana, sans-serif, "DejaVu Sans";
+}
+
+#uni1{
+    color: rgb(0,0,255);
+    font-size: 36px ;
+    font-family: verdana, sans-serif, ;
+}
+
+.cool{
+    font-size: 24px;
+}
+
+#uni2{
+    font-weight: bold;
+    background-color: rgb(144, 255, 40);
+}
